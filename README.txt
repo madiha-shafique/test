@@ -1,1 +1,0 @@
-bcd dndks ndk snkdn
